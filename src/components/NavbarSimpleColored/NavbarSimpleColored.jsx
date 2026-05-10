@@ -27,7 +27,7 @@ const data = [
   { link: '/empleado', label: 'Empleados', icon: IconFingerprint },
   { link: '/usuarios', label: 'Usuarios', icon: IconKey },
   { link: '/tareas', label: 'Tareas', icon: IconListCheck },
-  { link: '/presupuesto', label: 'Presupuesto', icon: IconCurrencyDollar },
+  // { link: '/presupuesto', label: 'Presupuesto', icon: IconCurrencyDollar },
   { link: '/ordenes_cerradas', label: 'Órdenes Cerradas', icon: IconCurrencyDollar },
   
 ];

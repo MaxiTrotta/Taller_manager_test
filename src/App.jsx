@@ -38,7 +38,7 @@ function App() {
 					<Route path="/ordenes" element={<WorkOrdersTable />} />
 					<Route path="/cliente" element={<TableSort />} />
 					<Route path="/tareas" element={<TasksTable />} />
-					<Route path="/presupuesto" element={<BudgetsTable />} />
+					{/* <Route path="/presupuesto" element={<BudgetsTable />} /> */}
 					<Route path="/ordenes_cerradas" element={<ClosedWorkOrdersTable />} />
 					
 				</Route>					{/* RUTA SOLO MECANICOS */}
